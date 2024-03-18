@@ -1,192 +1,63 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publications | Amr Mousa</title>
-    <link>https://example.com/publication/</link>
-      <atom:link href="https://example.com/publication/index.xml" rel="self" type="application/rss+xml" />
+    <title>Publications | Ahmed Shahin</title>
+    <link>/publication/</link>
+      <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Feb 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 28 Feb 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu1b3412e5c2d60ae0a142be2ebea86b0e_21193_512x512_fill_lanczos_center_3.png</url>
+      <url>/media/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
-      <link>https://example.com/publication/</link>
+      <link>/publication/</link>
     </image>
     
     <item>
-      <title>Extended-deep Q-network: A functional reinforcement learning-based energy management strategy for plug-in hybrid electric vehicles</title>
-      <link>https://example.com/publication/journal-article/2023_jestch/</link>
-      <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/journal-article/2023_jestch/</guid>
+      <title>Survival Analysis for Idiopathic Pulmonary Fibrosis using CT Images and Incomplete Clinical Data</title>
+      <link>/publication/midl22/</link>
+      <pubDate>Mon, 28 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/midl22/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Advanced Reinforcement Learning-Based Thermal Management Strategy For Battery Electric Vehicles</title>
-      <link>https://example.com/publication/conference-paper/2023_fisita/</link>
-      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/conference-paper/2023_fisita/</guid>
-      <description>&lt;!-- 
-
-
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-
-
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-Add the publication&#39;s **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/). --&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Advanced Energy Management Strategies for Plug-In Hybrid Electric Vehicles via Deep Reinforcement Learning</title>
-      <link>https://example.com/publication/conference-paper/2022_sae/</link>
-      <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/conference-paper/2022_sae/</guid>
-      <description>&lt;!-- 
-
-
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-
-
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-Add the publication&#39;s **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/). --&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Device and method for controlling a drivetrain of a hybrid vehicle</title>
-      <link>https://example.com/publication/patent/2022_avl/</link>
-      <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/patent/2022_avl/</guid>
+      <title>Convolutional Neural Network with Attention Modules for Pneumonia Detection</title>
+      <link>/publication/3ict/</link>
+      <pubDate>Sun, 20 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/3ict/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>AI-based Energy Management Strategies for P2 Plug-in Hybrid Electric Vehicles</title>
-      <link>https://example.com/publication/thesis/fh_msc/</link>
-      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/thesis/fh_msc/</guid>
+      <title>FAIRS: Soft Focus Generator and Attention for Robust Object Segmentation from Extreme Points</title>
+      <link>/publication/arxiv2020/</link>
+      <pubDate>Sat, 04 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/arxiv2020/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Process design and implementation of an automated document issuance system for academic purposes</title>
-      <link>https://example.com/publication/thesis/asu_meng/</link>
-      <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/thesis/asu_meng/</guid>
+      <title>Extreme Points Derived Confidence Map as a Cue for Class-Agnostic Interactive Segmentation Using Deep Neural Network</title>
+      <link>/publication/miccai19/</link>
+      <pubDate>Thu, 10 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/miccai19/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>hyBIRD: Design of a Four and Six Seater Hybrid-Electric Aircraft Family</title>
-      <link>https://example.com/publication/thesis/zewail_bsc/</link>
-      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/thesis/zewail_bsc/</guid>
+      <title>Deep Convolutional Encoder-Decoders with Aggregated Multi-Resolution Skip Connections for Skin Lesion Segmentation</title>
+      <link>/publication/isbi19/</link>
+      <pubDate>Thu, 11 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/isbi19/</guid>
       <description></description>
     </item>
     
     <item>
-      <title></title>
-      <link>https://example.com/publication/preprint/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/preprint/</guid>
-      <description>&lt;!-- ---
-title: &#34;An example preprint / working paper&#34;
-authors:
-- admin
-date: &#34;2019-04-07T00:00:00Z&#34;
-doi: &#34;&#34;
-
-# Schedule page publish date (NOT publication&#39;s date).
-publishDate: &#34;2017-01-01T00:00:00Z&#34;
-
-# Publication type.
-# Accepts a single type but formatted as a YAML list (for Hugo requirements).
-# Enter a publication type from the CSL standard.
-publication_types: [&#34;article&#34;]
-
-# Publication name and optional abbreviated publication name.
-publication: &#34;&#34;
-publication_short: &#34;&#34;
-
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
-
-# Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
-
-tags:
-- Source Themes
-featured: false
-
-links:
-- name: Custom Link
-  url: http://example.org
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: &#39;https://github.com/HugoBlox/hugo-blox-builder&#39;
-url_dataset: &#39;#&#39;
-url_poster: &#39;#&#39;
-url_project: &#39;&#39;
-url_slides: &#39;&#39;
-url_source: &#39;#&#39;
-url_video: &#39;#&#39;
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page&#39;s folder. 
-image:
-  caption: &#39;Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)&#39;
-  focal_point: &#34;&#34;
-  preview_only: false
-
-# Associated Projects (optional).
-#   Associate this publication with one or more of your projects.
-#   Simply enter your project&#39;s folder or file name without extension.
-#   E.g. `internal-project` references `content/project/internal-project/index.md`.
-#   Otherwise, set `projects: []`.
-projects:
-- internal-project
-
-# Slides (optional).
-#   Associate this publication with Markdown slides.
-#   Simply enter your slide deck&#39;s filename without extension.
-#   E.g. `slides: &#34;example&#34;` references `content/slides/example/index.md`.
-#   Otherwise, set `slides: &#34;&#34;`.
-slides: example
----
-
-
-
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-Add the publication&#39;s **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/). --&gt;
-</description>
+      <title>Deep Ensemble Learning for Skin Lesion Classification from Dermoscopic Images</title>
+      <link>/publication/cibec/</link>
+      <pubDate>Sat, 22 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/cibec/</guid>
+      <description></description>
     </item>
     
   </channel>
